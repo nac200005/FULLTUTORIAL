@@ -45,8 +45,7 @@ const About = () => {
       variants={fadeIn("","",0.1,1)}
       className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
     >
-      I am a big baller than makes lots of cool components and things on the web. There is nothing more that I want to do that be happpy and write some NeetCode.
-      If you are looking for someone with a big dick lmk because I can help u for sure for sure. Lets work closely and hmu for a reference.
+      I am a highly skilled professional specializing in the development of innovative web components and applications. My primary goal is to achieve both personal fulfillment and professional success through the creation of exceptional code. If you are seeking a talented individual to contribute to your projects, please let me know as I am confident in my abilities to assist you. I am open to establishing a close working relationship and can provide references upon request.
     </motion.p>
 
     <div className="mt-20 flex flex-wrap gap-10">
